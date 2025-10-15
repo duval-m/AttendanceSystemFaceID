@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< Updated upstream
+=======
+    <None Remove="12.jpg" />
+    <None Remove="Geometrique-cou.jpg" />
+    <None Remove="icons8-chercher.gif" />
+>>>>>>> Stashed changes
     <None Remove="Images\logo_face_id.png" />
   </ItemGroup>
 
@@ -24,6 +30,12 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< Updated upstream
+=======
+    <Resource Include="12.jpg" />
+    <Resource Include="Geometrique-cou.jpg" />
+    <Resource Include="icons8-chercher.gif" />
+>>>>>>> Stashed changes
     <Resource Include="Images\logo_face_id.png" />
   </ItemGroup>
 

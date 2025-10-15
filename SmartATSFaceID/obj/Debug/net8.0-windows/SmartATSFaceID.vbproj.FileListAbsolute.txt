@@ -20,3 +20,13 @@ C:\Users\anced\OneDrive\Documents\GL2\programmation-evenementielle_2\projets\Sma
 C:\Users\anced\OneDrive\Documents\GL2\programmation-evenementielle_2\projets\Smart_ats_face_id\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\SmartATSFaceID.pdb
 C:\Users\anced\OneDrive\Documents\GL2\programmation-evenementielle_2\projets\Smart_ats_face_id\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\SmartATSFaceID.genruntimeconfig.cache
 C:\Users\anced\OneDrive\Documents\GL2\programmation-evenementielle_2\projets\Smart_ats_face_id\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\ref\SmartATSFaceID.dll
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\Admin.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\Employé.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\loginScreen.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\suplogin.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\UserControl1.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\Window1.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\Application.g.vb
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\SmartATSFaceID_MarkupCompile.cache
+C:\Users\DG\Documents\GitHub\AttendanceSystemFaceID\SmartATSFaceID\obj\Debug\net8.0-windows\SmartATSFaceID_MarkupCompile.lref

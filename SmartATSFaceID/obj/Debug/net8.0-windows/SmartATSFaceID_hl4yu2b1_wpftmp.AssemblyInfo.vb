@@ -16,11 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SmartATSFaceID"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
-<<<<<<< Updated upstream
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
-=======
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d0b0a29a89885f718de3e04b2cd3c78ff2e82d"),  _
->>>>>>> Stashed changes
  Assembly: System.Reflection.AssemblyProductAttribute("SmartATSFaceID"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SmartATSFaceID"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

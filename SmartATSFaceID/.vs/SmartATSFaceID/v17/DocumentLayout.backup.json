@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\anced\\OneDrive\\Documents\\GL2\\programmation-evenementielle_2\\projets\\Smart_ats_face_id\\AttendanceSystemFaceID\\SmartATSFaceID\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\anced\\onedrive\\documents\\gl2\\programmation-evenementielle_2\\projets\\smart_ats_face_id\\attendancesystemfaceid\\smartatsfaceid\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -13,6 +14,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\anced\\onedrive\\documents\\gl2\\programmation-evenementielle_2\\projets\\smart_ats_face_id\\attendancesystemfaceid\\smartatsfaceid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\employ\u00E9.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:employ\u00E9.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\employ\u00E9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:employ\u00E9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\loginscreen.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:loginscreen.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\suplogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:suplogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\suplogin.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:suplogin.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|c:\\users\\dg\\documents\\github\\attendancesystemfaceid\\smartatsfaceid\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{64A7A738-BD6D-4274-B924-5F3B60EEB7BC}|SmartATSFaceID.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +63,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -34,6 +76,61 @@
               "RelativeToolTip": "loginScreen.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-07T11:27:29.449Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employ\u00E9.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Employ\u00E9.xaml.vb",
+              "RelativeDocumentMoniker": "Employ\u00E9.xaml.vb",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Employ\u00E9.xaml.vb*",
+              "RelativeToolTip": "Employ\u00E9.xaml.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T15:48:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "suplogin.xaml",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\suplogin.xaml",
+              "RelativeDocumentMoniker": "suplogin.xaml",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\suplogin.xaml",
+              "RelativeToolTip": "suplogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T07:04:02.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Admin.xaml",
+              "RelativeDocumentMoniker": "Admin.xaml",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Admin.xaml",
+              "RelativeToolTip": "Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T06:54:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ\u00E9.xaml",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Employ\u00E9.xaml",
+              "RelativeDocumentMoniker": "Employ\u00E9.xaml",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Employ\u00E9.xaml",
+              "RelativeToolTip": "Employ\u00E9.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T06:23:39.546Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
@@ -50,13 +147,67 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 8,
+              "Title": "suplogin.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\suplogin.xaml.vb",
+              "RelativeDocumentMoniker": "suplogin.xaml.vb",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\suplogin.xaml.vb",
+              "RelativeToolTip": "suplogin.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T07:19:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginScreen.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\loginScreen.xaml.vb",
+              "RelativeDocumentMoniker": "loginScreen.xaml.vb",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\loginScreen.xaml.vb",
+              "RelativeToolTip": "loginScreen.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T07:13:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T16:15:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\loginScreen.xaml",
+              "RelativeDocumentMoniker": "loginScreen.xaml",
+              "ToolTip": "C:\\Users\\DG\\Documents\\GitHub\\AttendanceSystemFaceID\\SmartATSFaceID\\loginScreen.xaml",
+              "RelativeToolTip": "loginScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-07T11:27:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> Stashed changes
               "Title": "MainWindow.xaml.vb",
               "DocumentMoniker": "C:\\Users\\anced\\OneDrive\\Documents\\GL2\\programmation-evenementielle_2\\projets\\Smart_ats_face_id\\AttendanceSystemFaceID\\SmartATSFaceID\\MainWindow.xaml.vb",
               "RelativeDocumentMoniker": "MainWindow.xaml.vb",
               "ToolTip": "C:\\Users\\anced\\OneDrive\\Documents\\GL2\\programmation-evenementielle_2\\projets\\Smart_ats_face_id\\AttendanceSystemFaceID\\SmartATSFaceID\\MainWindow.xaml.vb",
               "RelativeToolTip": "MainWindow.xaml.vb",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-07T09:31:22.406Z",
               "EditorCaption": ""
